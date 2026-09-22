@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Eric ZZ — AI systems, agent runtimes, developer tools." src="assets/header-light.svg" width="100%">
+  <img alt="Eric ZZ — AI, large language models, agent systems." src="assets/header-light.svg" width="100%">
 </picture>
 
-I build AI systems and the tools that make them useful.
+I research AI, large language models, and agent systems.
 
-My work spans agent runtimes, desktop applications, and multimodal models. I care about the details between a working demo and software people can depend on: explicit execution boundaries, inspectable state, and thoughtful interfaces.
+I explore how models reason, use tools, and act across modalities. Through Sage and LingModel, I connect research questions with working systems: agent execution, persistent context, and multimodal architectures.
 
 <br>
 
@@ -20,15 +20,13 @@ My work spans agent runtimes, desktop applications, and multimodal models. I car
 
 <br>
 
-### Engineering interests
+### Research interests
 
 - **Agent infrastructure** — execution lifecycles, tool interfaces, context, and persistent sessions.
-- **Human–AI interaction** — workspaces, approvals, and interfaces that make complex behavior understandable.
+- **Large language models** — model architecture, training, context, and reasoning.
 - **Multimodal systems** — connecting language, visual generation, and agent behavior.
 
 <br>
-
-**Python · Dart / Flutter · TypeScript / Vue**
 
 ---
 

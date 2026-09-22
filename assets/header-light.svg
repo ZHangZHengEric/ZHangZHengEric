@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
-<title id="title">Eric ZZ</title><desc id="desc">AI systems, agent runtimes, developer tools. An architectural line drawing connects three nodes.</desc>
+<title id="title">Eric ZZ</title><desc id="desc">AI, large language models, agent systems. An architectural line drawing connects three nodes.</desc>
 <rect width="1200" height="360" rx="14" fill="#f6f8fa"/>
 <path d="M48 48H1152M48 312H1152" stroke="#d4dde7"/>
-<text x="52" y="88" fill="#586779" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3">ENGINEERING / OPEN SOURCE</text>
+<text x="52" y="88" fill="#586779" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3">AI / LLM / AGENTS</text>
 <text x="48" y="205" fill="#17212f" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="600" letter-spacing="-4">Eric ZZ<tspan fill="#2768b8">.</tspan></text>
-<text x="52" y="262" fill="#586779" font-family="Arial, Helvetica, sans-serif" font-size="21">AI systems. Agent runtimes. Developer tools.</text>
+<text x="52" y="262" fill="#586779" font-family="Arial, Helvetica, sans-serif" font-size="21">AI. Large language models. Agent systems.</text>
 <g stroke="#d4dde7" stroke-width="1.3">
 <path d="M805 108H1102M805 180H1102M805 252H1102M841 72V288M913 72V288M985 72V288M1057 72V288"/>
 <path d="M805 72H1102V288H805Z"/>
